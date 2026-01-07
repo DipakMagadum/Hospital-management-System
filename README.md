@@ -52,4 +52,63 @@ This project is developed as part of an **MCA academic project** and uses a **My
 ---
 
 ## 📂 Project Structure
+Hospital-management-System
+│
+├── src/
+│ └── hospital/management/system/
+│ ├── Login.java
+│ ├── Reception.java
+│ ├── NEW_PATIENT.java
+│ ├── Patient_Info.java
+│ ├── Update_Patient_info.java
+│ ├── Patient_discharge.java
+│ ├── Room.java
+│ ├── Search_Room.java
+│ ├── Department.java
+│ ├── Employee_info.java
+│ ├── Ambulance.java
+│ └── conn.java
+│
+├── screenshots/
+│ ├── login.png
+│ ├── dashboard.png
+│ ├── add-patient.png
+│ ├── patient-info.png
+│ ├── update-patient.png
+│ ├── discharge.png
+│ ├── room-details.png
+│ ├── search-room.png
+│ ├── department.png
+│ ├── employee-info.png
+│ └── ambulance.png
+│
+├── README.md
+└── database.sql
 
+
+---
+
+## ▶️ How to Run the Project
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/DipakMagadum/Hospital-management-System.git
+
+
+Open the project
+
+Open IntelliJ IDEA or Eclipse
+
+Import the project
+
+Database Configuration
+
+Create a MySQL database
+
+Import database.sql
+
+Update database username and password in conn.java
+
+Run the Application
+
+Run Login.java
