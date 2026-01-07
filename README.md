@@ -95,20 +95,20 @@ Hospital-management-System
    git clone https://github.com/DipakMagadum/Hospital-management-System.git
 
 
-Open the project
+2. **Open the project**
 
-Open IntelliJ IDEA or Eclipse
+       .Open IntelliJ IDEA or Eclipse
 
-Import the project
+       .Import the project
 
-Database Configuration
+3. **Database Configuration**
 
-Create a MySQL database
+        .Create a MySQL database
 
-Import database.sql
+       .Import database.sql
 
-Update database username and password in conn.java
+       .Update database username and password in conn.java
 
-Run the Application
+4. **Run the Application**
 
-Run Login.java
+       .Run Login.java
